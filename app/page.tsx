@@ -160,8 +160,7 @@ export default function Home() {
               data-nimg="1"
               className="w-16 h-auto rounded-full aspect-square"
               style={{ color: 'transparent' }}
-              src="/Home/tick.svg"
-            />
+             />
             <div className="flex justify-start items-start flex-col">
               <p className="text-3xl md:text-[40px] leading-[100%] font-bold text-green font-work">
                 Event Variety & Menu Selection
@@ -181,8 +180,7 @@ export default function Home() {
               data-nimg="1"
               className="w-16 h-auto rounded-full aspect-square"
               style={{ color: 'transparent' }}
-              src="/Home/tick.svg"
-            />
+             />
             <div className="flex justify-start items-start flex-col">
               <p className="text-3xl md:text-[40px] leading-[100%] font-bold text-green font-work">
                 Service Options & Customizable Menus
@@ -202,8 +200,7 @@ export default function Home() {
               data-nimg="1"
               className="w-16 h-auto rounded-full aspect-square"
               style={{ color: 'transparent' }}
-              src="/Home/tick.svg"
-            />
+             />
             <div className="flex justify-start items-start flex-col">
               <p className="text-3xl md:text-[40px] leading-[100%] font-bold text-green font-work">
                 LIVE Counter Service
@@ -227,9 +224,7 @@ export default function Home() {
               data-nimg="1"
               className="one w-1/2 max-w-[290px] absolute z-20 scale-90 translate-x-10"
               style={{ color: 'transparent', translate: 'none', rotate: 'none', scale: 'none', bottom: '58.2141%', right: '25.8333%', maxWidth: '290px', transform: 'translate(40px, 0px) scale(0.9, 0.9)' }}
-              srcSet="/_next/image?url=%2FHome%2FsectionThree%2F1.png&amp;w=3840&amp;q=75 1x"
-              src="/_next/image?url=%2FHome%2FsectionThree%2F1.png&amp;w=3840&amp;q=75"
-            />
+              />
             {/* Other images go here */}
             <img
               alt=""
@@ -241,8 +236,7 @@ export default function Home() {
               data-nimg="1"
               className="absolute z-0 w-fit"
               style={{ color: 'transparent', bottom: '97.1%', right: '48.0833%' }}
-              src="/particles/9.svg"
-            />
+             />
           </div>
         </div>
       </div>
