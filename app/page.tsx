@@ -8,49 +8,51 @@ export default function Home() {
   return (
     <main className="flex flex-col items-center justify-between p-24 relative">
       <div className="insidecontainer">
-      <div className="flex flex-row items-center justify-between max-w-7xl mb-10">
-        <a href="/">
-          <Image alt="logo" loading="lazy" width="1000" height="1000" decoding="async" src={vayals} className="w-24 h-auto" />
-        </a>
-        <ul className="flex gap-5 text-black">
-          <li><a href="#">Home</a></li>
-          <li><a href="#">Menu</a></li>
-          <li><a href="#">About Us</a></li>
-          <li><a href="#">Catering</a></li>
-          <li><a href="#">Contact</a></li>
-        </ul>
-      </div>
-
-      <div className="text-center">
-        <h1 className="text-4xl font-bold mb-4">Welcome to Vayals Kitchen</h1>
-        <p className="text-lg mb-8">Immerse yourself in a culinary journey & indulge in the vibrant tastes of India</p>
-      </div>
-
-      <div className="grid grid-cols-2 gap-2">
-        <div className="border p-4 rounded-lg relative dish">
-          <Image
-            alt="Biriyani"
-            src={biriyani}
-            width={300}
-            height={300}
-            layout="responsive"
-            className="dish-image"
-          />
+        <div className="flex flex-row items-center justify-between max-w-7xl mb-10">
+          <a href="/">
+            <Image alt="logo" loading="lazy" width="1000" height="1000" decoding="async" src={vayals} className="w-24 h-auto" />
+          </a>
+          <ul className="flex gap-5 text-black">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Menu</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Catering</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
         </div>
-        <div className="border p-4 rounded-lg relative dish">
-         
-          <Image
-            alt="Rice"
-            src={rice}
-            width={300}
-            height={300}
-            layout="responsive"
-            className="dish-image"
-          />
+
+        <div className="text-center">
+          <h1 className="text-4xl font-bold mb-4">Welcome to Vayals Kitchen</h1>
+          <p className="text-lg mb-8">Immerse yourself in a culinary journey & indulge in the vibrant tastes of India</p>
         </div>
+
+        <div className="grid grid-cols-2 gap-2">
+          <div className="border p-4 rounded-lg relative dish">
+            <Image
+              alt="Biriyani"
+              src={biriyani}
+              width={300}
+              height={300}
+              layout="responsive"
+              className="dish-image"
+            />
+          </div>
+          <div className="border p-4 rounded-lg relative dish">
+            <Image
+              alt="Rice"
+              src={rice}
+              width={300}
+              height={300}
+              layout="responsive"
+              className="dish-image"
+            />
+          </div>
         </div>
         <div className="footerdiv">
-      <div className="footerbutton flex flex-grow gap-x-1.5 rounded-xl bg-green p-1.5 text-white shadow-xl md:flex-grow-0 cursor-pointer"><div className=" text-white text-xl py-5 w-full text-center border tracking-wide border-white rounded-lg hover:bg-white hover:text-green">Order online</div><a target="blank" className=" text-white text-xl  py-5 w-full text-center border tracking-wide border-white rounded-lg hover:bg-white hover:text-green" href="https://www.grubhub.com/restaurant/vayals-indian-kitchen-507-w-thomas-rd-phoenix/7584032">Grubhub</a></div>
+          <div className="footerbutton flex flex-grow gap-x-1.5 rounded-xl bg-green p-1.5 text-white shadow-xl md:flex-grow-0 cursor-pointer">
+            <div className=" text-white text-xl py-5 w-full text-center border tracking-wide border-white rounded-lg hover:bg-white hover:text-green">Order online</div>
+            <a target="_blank" className=" text-white text-xl  py-5 w-full text-center border tracking-wide border-white rounded-lg hover:bg-white hover:text-green" href="https://www.grubhub.com/restaurant/vayals-indian-kitchen-507-w-thomas-rd-phoenix/7584032">Grubhub</a>
+          </div>
         </div>
       </div>
       <section className="bg-white pb-16">
