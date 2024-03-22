@@ -78,7 +78,7 @@ export default function Home() {
             </div>
             <div className="flex flex-row gap-5 md:gap-7">
               <div className="w-24 h-24 md:w-[150px] md:h-[150px] rounded-full aspect-square flex justify-center items-center p-2 md:p-6 bg-lightgreen">
-                <img alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }} src="/Home/sectiontwo/romantic.svg" />
+                <img alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }}  />
               </div>
               <div className="max-w-[320px] flex justify-center items-start flex-col">
                 <p className="text-3xl md:text-[40px] font-bold text-green font-work leading-[100%]">Warm and Vibrant Ambiance</p>
@@ -95,7 +95,7 @@ export default function Home() {
 
             <div className="flex flex-row gap-5 md:gap-7">
               <div className="w-24 h-24 md:w-[150px] md:h-[150px] rounded-full aspect-square flex justify-center items-center p-2 md:p-6 bg-lightgreen">
-                <img alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }} src="/Home/sectiontwo/romantic.svg" />
+                <img alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }}   />
               </div>
               <div className="max-w-[320px] flex justify-center items-start flex-col">
                 <p className="text-3xl md:text-[40px] font-bold text-green font-work leading-[100%]">Extensive Menu Selection</p>
@@ -105,7 +105,7 @@ export default function Home() {
             </div>
             <div className="flex flex-row gap-5 md:gap-7">
               <div className="w-24 h-24 md:w-[150px] md:h-[150px] rounded-full aspect-square flex justify-center items-center p-2 md:p-6 bg-lightgreen">
-                <img alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }} src="/Home/sectiontwo/romantic.svg" />
+                <img alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }}   />
               </div>
               <div className="max-w-[320px] flex justify-center items-start flex-col">
                 <p className="text-3xl md:text-[40px] font-bold text-green font-work leading-[100%]">Vegan and Gluten-Free Options</p>
@@ -115,7 +115,7 @@ export default function Home() {
             </div>
             <div className="flex flex-row gap-5 md:gap-7">
               <div className="w-24 h-24 md:w-[150px] md:h-[150px] rounded-full aspect-square flex justify-center items-center p-2 md:p-6 bg-lightgreen">
-                <img alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }} src="/Home/sectiontwo/romantic.svg" />
+                <img alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }}  />
               </div>
               <div className="max-w-[320px] flex justify-center items-start flex-col">
                 <p className="text-3xl md:text-[40px] font-bold text-green font-work leading-[100%]">Exceptional Service</p>
@@ -125,7 +125,7 @@ export default function Home() {
             </div>
             <div className="flex flex-row gap-5 md:gap-7">
               <div className="w-24 h-24 md:w-[150px] md:h-[150px] rounded-full aspect-square flex justify-center items-center p-2 md:p-6 bg-lightgreen">
-                <img alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }} src="/Home/sectiontwo/romantic.svg" />
+                <img alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }}   />
               </div>
               <div className="max-w-[320px] flex justify-center items-start flex-col">
                 <p className="text-3xl md:text-[40px] font-bold text-green font-work leading-[100%]">Hygiene and Safety</p>
@@ -135,7 +135,7 @@ export default function Home() {
             </div>
             <div className="flex flex-row gap-5 md:gap-7">
               <div className="w-24 h-24 md:w-[150px] md:h-[150px] rounded-full aspect-square flex justify-center items-center p-2 md:p-6 bg-lightgreen">
-                <img alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }} src="/Home/sectiontwo/romantic.svg" />
+                <img alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }}  />
               </div>
               <div className="max-w-[320px] flex justify-center items-start flex-col">
                 <p className="text-3xl md:text-[40px] font-bold text-green font-work leading-[100%]">Cultural Experience</p>
