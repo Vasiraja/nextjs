@@ -10,7 +10,7 @@ export default function Home() {
       <div className="insidecontainer">
       <div className="flex flex-row items-center justify-between max-w-7xl mb-10">
         <a href="/">
-          <img alt="logo" loading="lazy" width="1000" height="1000" decoding="async" src={vayals} className="w-24 h-auto" />
+          <Image alt="logo" loading="lazy" width="1000" height="1000" decoding="async" src={vayals} className="w-24 h-auto" />
         </a>
         <ul className="flex gap-5 text-black">
           <li><a href="#">Home</a></li>
@@ -78,7 +78,7 @@ export default function Home() {
             </div>
             <div className="flex flex-row gap-5 md:gap-7">
               <div className="w-24 h-24 md:w-[150px] md:h-[150px] rounded-full aspect-square flex justify-center items-center p-2 md:p-6 bg-lightgreen">
-                <img alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }}  />
+                <Image alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }} src={''}  />
               </div>
               <div className="max-w-[320px] flex justify-center items-start flex-col">
                 <p className="text-3xl md:text-[40px] font-bold text-green font-work leading-[100%]">Warm and Vibrant Ambiance</p>
@@ -95,7 +95,7 @@ export default function Home() {
 
             <div className="flex flex-row gap-5 md:gap-7">
               <div className="w-24 h-24 md:w-[150px] md:h-[150px] rounded-full aspect-square flex justify-center items-center p-2 md:p-6 bg-lightgreen">
-                <img alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }}   />
+                <Image alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }} src={''}   />
               </div>
               <div className="max-w-[320px] flex justify-center items-start flex-col">
                 <p className="text-3xl md:text-[40px] font-bold text-green font-work leading-[100%]">Extensive Menu Selection</p>
@@ -105,7 +105,7 @@ export default function Home() {
             </div>
             <div className="flex flex-row gap-5 md:gap-7">
               <div className="w-24 h-24 md:w-[150px] md:h-[150px] rounded-full aspect-square flex justify-center items-center p-2 md:p-6 bg-lightgreen">
-                <img alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }}   />
+                <Image alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }} src={''}   />
               </div>
               <div className="max-w-[320px] flex justify-center items-start flex-col">
                 <p className="text-3xl md:text-[40px] font-bold text-green font-work leading-[100%]">Vegan and Gluten-Free Options</p>
@@ -115,7 +115,7 @@ export default function Home() {
             </div>
             <div className="flex flex-row gap-5 md:gap-7">
               <div className="w-24 h-24 md:w-[150px] md:h-[150px] rounded-full aspect-square flex justify-center items-center p-2 md:p-6 bg-lightgreen">
-                <img alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }}  />
+                <Image alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }} src={''}  />
               </div>
               <div className="max-w-[320px] flex justify-center items-start flex-col">
                 <p className="text-3xl md:text-[40px] font-bold text-green font-work leading-[100%]">Exceptional Service</p>
@@ -125,7 +125,7 @@ export default function Home() {
             </div>
             <div className="flex flex-row gap-5 md:gap-7">
               <div className="w-24 h-24 md:w-[150px] md:h-[150px] rounded-full aspect-square flex justify-center items-center p-2 md:p-6 bg-lightgreen">
-                <img alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }}   />
+                <Image alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }} src={''}   />
               </div>
               <div className="max-w-[320px] flex justify-center items-start flex-col">
                 <p className="text-3xl md:text-[40px] font-bold text-green font-work leading-[100%]">Hygiene and Safety</p>
@@ -135,7 +135,7 @@ export default function Home() {
             </div>
             <div className="flex flex-row gap-5 md:gap-7">
               <div className="w-24 h-24 md:w-[150px] md:h-[150px] rounded-full aspect-square flex justify-center items-center p-2 md:p-6 bg-lightgreen">
-                <img alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }}  />
+                <Image alt="Warm and Vibrant Ambiance" loading="lazy" width="3000" height="3000" decoding="async" data-nimg="1" className="w-full h-auto" style={{ color: 'transparent' }} src={''}  />
               </div>
               <div className="max-w-[320px] flex justify-center items-start flex-col">
                 <p className="text-3xl md:text-[40px] font-bold text-green font-work leading-[100%]">Cultural Experience</p>
@@ -151,7 +151,7 @@ export default function Home() {
         <div className="right h-full w-full min-w-1/2 lg:max-w-[540px] flex flex-col gap-10 px-5 sm:px-10">
           <h1 className="text-7xl md:text-[100px] hidden lg:block">our catering services</h1>
           <div className="flex flex-row items-start gap-5 lg:max-w-[410px]">
-            <img
+            <Image
               alt="Event Variety & Menu Selection"
               loading="lazy"
               width="3000"
@@ -159,8 +159,7 @@ export default function Home() {
               decoding="async"
               data-nimg="1"
               className="w-16 h-auto rounded-full aspect-square"
-              style={{ color: 'transparent' }}
-             />
+              style={{ color: 'transparent' }} src={''}             />
             <div className="flex justify-start items-start flex-col">
               <p className="text-3xl md:text-[40px] leading-[100%] font-bold text-green font-work">
                 Event Variety & Menu Selection
@@ -171,7 +170,7 @@ export default function Home() {
             </div>
           </div>
           <div className="flex flex-row items-start gap-5 lg:max-w-[410px]">
-            <img
+            <Image
               alt="Service Options & Customizable Menus"
               loading="lazy"
               width="3000"
@@ -179,8 +178,7 @@ export default function Home() {
               decoding="async"
               data-nimg="1"
               className="w-16 h-auto rounded-full aspect-square"
-              style={{ color: 'transparent' }}
-             />
+              style={{ color: 'transparent' }} src={''}             />
             <div className="flex justify-start items-start flex-col">
               <p className="text-3xl md:text-[40px] leading-[100%] font-bold text-green font-work">
                 Service Options & Customizable Menus
@@ -191,7 +189,7 @@ export default function Home() {
             </div>
           </div>
           <div className="flex flex-row items-start gap-5 lg:max-w-[410px]">
-            <img
+            <Image
               alt="LIVE Counter Service"
               loading="lazy"
               width="3000"
@@ -199,8 +197,7 @@ export default function Home() {
               decoding="async"
               data-nimg="1"
               className="w-16 h-auto rounded-full aspect-square"
-              style={{ color: 'transparent' }}
-             />
+              style={{ color: 'transparent' }} src={''}             />
             <div className="flex justify-start items-start flex-col">
               <p className="text-3xl md:text-[40px] leading-[100%] font-bold text-green font-work">
                 LIVE Counter Service
@@ -214,7 +211,7 @@ export default function Home() {
         <div>
           <h1 className="text-5xl md:text-[100px] lg:hidden block px-2 mb-5">our catering services</h1>
           <div className="pinned h-[1000px] sm:min-h-[890px] w-full lg:min-w-[600px] max-w-[740px] m-auto flex flex-col justify-start items-center text-black relative pointer-events-none">
-            <img
+            <Image
               alt=""
               id="one"
               loading="lazy"
@@ -223,10 +220,9 @@ export default function Home() {
               decoding="async"
               data-nimg="1"
               className="one w-1/2 max-w-[290px] absolute z-20 scale-90 translate-x-10"
-              style={{ color: 'transparent', translate: 'none', rotate: 'none', scale: 'none', bottom: '58.2141%', right: '25.8333%', maxWidth: '290px', transform: 'translate(40px, 0px) scale(0.9, 0.9)' }}
-              />
+              style={{ color: 'transparent', translate: 'none', rotate: 'none', scale: 'none', bottom: '58.2141%', right: '25.8333%', maxWidth: '290px', transform: 'translate(40px, 0px) scale(0.9, 0.9)' }} src={''}              />
             {/* Other images go here */}
-            <img
+            <Image
               alt=""
               id="parti9"
               loading="lazy"
@@ -235,8 +231,7 @@ export default function Home() {
               decoding="async"
               data-nimg="1"
               className="absolute z-0 w-fit"
-              style={{ color: 'transparent', bottom: '97.1%', right: '48.0833%' }}
-             />
+              style={{ color: 'transparent', bottom: '97.1%', right: '48.0833%' }} src={''}             />
           </div>
         </div>
       </div>
@@ -264,7 +259,7 @@ export default function Home() {
 
       {/* <footer className="w-[95%] m-auto rounded-t-[40px] bg-lightgreen p-10 md:p-[60px] flex flex-col lg:flex-row justify-between lg:items-center gap-10">
         <div className="max-w-fit">
-          <img alt="logo" loading="lazy" width="265" height="265" decoding="async" src="/vayals.svg" />
+          <Image alt="logo" loading="lazy" width="265" height="265" decoding="async" src="/vayals.svg" />
           <h1 className="text-[40px] tracking-[2px] text-center">Vayal’s kitchen</h1>
         </div>
         <div className="flex flex-col md:flex-row gap-20 md:gap-[100px]">
@@ -277,28 +272,28 @@ export default function Home() {
           <div className="underline underline-offset-4">
             <div className="flex flex-col gap-5 font-work font-semibold">
               <a target="_blank" type="email" href="mailto:vayalskitchen@gmail.com" className="flex flex-row gap-2">
-                <img alt="" loading="lazy" width="24" height="24" decoding="async" src="/Home/Footer/mail.svg" />
+                <Image alt="" loading="lazy" width="24" height="24" decoding="async" src="/Home/Footer/mail.svg" />
                 <p className="text-xl">vayalskitchen@gmail.com</p>
               </a>
               <a target="_blank" type="tel" href="tel:+1(456)89058" className="flex flex-row gap-2">
-                <img alt="" loading="lazy" width="24" height="24" decoding="async" src="/Home/Footer/call.svg" />
+                <Image alt="" loading="lazy" width="24" height="24" decoding="async" src="/Home/Footer/call.svg" />
                 <p className="text-xl">+1 (456) 89058</p>
               </a>
               <a target="_blank" href="https://www.facebook.com/people/Vayals-Indian-Kitchen/100077552566092/?mibextid=ZbWKwL" className="flex flex-row gap-2">
-                <img alt="" loading="lazy" width="24" height="24" decoding="async" src="/Home/Footer/messenger.svg" />
+                <Image alt="" loading="lazy" width="24" height="24" decoding="async" src="/Home/Footer/messenger.svg" />
                 <p className="text-xl">@vayals_official</p>
               </a>
               <a target="_blank" href="https://www.instagram.com/vayalskitchen" className="flex flex-row gap-2">
-                <img alt="" loading="lazy" width="24" height="24" decoding="async" src="/Home/Footer/instagram.svg" />
+                <Image alt="" loading="lazy" width="24" height="24" decoding="async" src="/Home/Footer/instagram.svg" />
                 <p className="text-xl">@vayals_kitchen</p>
               </a>
               <a target="_blank" href="https://api.whatsapp.com/send/?phone=16025616505&amp;text&amp;type=phone_number&amp;app_absent=0" className="flex flex-row gap-2">
-                <img alt="" loading="lazy" width="24" height="24" decoding="async" src="/Home/Footer/whatsapp.svg" />
+                <Image alt="" loading="lazy" width="24" height="24" decoding="async" src="/Home/Footer/whatsapp.svg" />
                 <p className="text-xl">+1 (602) 561-6505</p>
               </a>
             </div>
             <a href="https://maps.app.goo.gl/eJDqKT7i3qHuhMHE9" target="_blank" className="flex flex-row gap-5 mt-5">
-              <img alt="" loading="lazy" width="24" height="24" decoding="async" src="/Home/Footer/location.svg" />
+              <Image alt="" loading="lazy" width="24" height="24" decoding="async" src="/Home/Footer/location.svg" />
               <p className="text-xl font-work font-semibold max-w-[170px]">507 w Thomas road Phoenix AZ 85013</p>
             </a>
           </div>
